@@ -1,4 +1,4 @@
-EBRA STORE
+Ebra
 Next.js + TypeScript + Tailwind CSS
 
 A simple e-commerce demo built with Next.js App Router, TypeScript, and Tailwind CSS.
@@ -61,7 +61,7 @@ src/
 How the Cart Works
 CartProvider wraps the app in layout.tsx
 ProductCard calls addItem(product) from useCart()
-CartToast listens to toastMessage in context and displays a notification
+CartToast listens to toastMessage in context and displays a notification 
 ------
 
 Common Windows PowerShell Issue
