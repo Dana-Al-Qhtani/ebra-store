@@ -19,6 +19,10 @@ The application may be used as a learning resource, portfolio project, or as a f
 
 ---
 
+## Demo link 
+
+---
+
 ## Tech Stack
 
 - Next.js (App Router)
