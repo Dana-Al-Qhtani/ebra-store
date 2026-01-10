@@ -133,9 +133,9 @@ errors faced during the implementation with solutions:
 
     + CategoryInfo          : SecurityError: (:) [], PSSecurityException
     + FullyQualifiedErrorId : UnauthorizedAccess
-P
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 npm run dev
 
 
