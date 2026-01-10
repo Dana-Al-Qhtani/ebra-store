@@ -1,5 +1,8 @@
 
-EBRA STORE (Next.js + TypeScript + Tailwind)
+
+
+EBRA STORE 
+(Next.js + TypeScript + Tailwind)
 
 A simple e-commerce demo built with Next.js App Router, TypeScript, and Tailwind CSS.
 It includes a product listing, product details, a cart with localStorage persistence, and a toast notification when items are added to the cart.
@@ -65,10 +68,6 @@ COMMON WINDOWS ISSUE (PowerShell): npm.ps1 BLOCKED
 Problem:
 Running “npm run dev” in PowerShell may fail with:
 “running scripts is disabled on this system” (PSSecurityException)
-display: 
-    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
-    + FullyQualifiedErrorId : UnauthorizedAccess
-
 
 Solution:
 Set-ExecutionPolicy -Scope Process-ExecutionPolicy Bypass
