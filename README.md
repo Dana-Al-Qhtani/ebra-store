@@ -42,10 +42,13 @@ Before running the project, ensure the following are installed:
 
 Verify installation:
 
+Verify installation:
+
 ```bash
 node -v
 npm -v
 git --version
+
 
 ---
 
