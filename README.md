@@ -49,18 +49,6 @@ git --version
 
 ---
 
-## Installation and Running Locally
-
-### Install project dependencies
-```bash
-npm install
-
-# Start the development server
-npm run dev
-# Access the application in the browser
-http://localhost:3000
-
----
 
 ##Features
 Product listing grid
