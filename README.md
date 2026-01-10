@@ -1,4 +1,4 @@
-EBRA STORE
+#EBRA STORE
 EBRA Store is a lightweight e-commerce web application built using Next.js (App Router), TypeScript, and Tailwind CSS.
 The project demonstrates modern front-end development practices and core e-commerce functionality, including product browsing, product detail views, and a persistent shopping cart.
 Overview
