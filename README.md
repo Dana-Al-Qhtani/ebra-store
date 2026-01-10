@@ -38,13 +38,13 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ---
 
 ## Features
-- ✅ Product grid (listing)
-- ✅ Product details page: `/product/[id]`
-- ✅ Cart page: `/cart`
-- ✅ Add / remove / increase / decrease cart items
-- ✅ Cart persistence using `localStorage`
-- ✅ Toast notification (e.g., “Added to cart”)
-- ✅ Next/Image remote patterns for external images
+- Product grid (listing)
+- Product details page: `/product/[id]`
+- Cart page: `/cart`
+- Add / remove / increase / decrease cart items
+- Cart persistence using `localStorage`
+- Toast notification (e.g., “Added to cart”)
+- Next/Image remote patterns for external images
 
 ---
 
