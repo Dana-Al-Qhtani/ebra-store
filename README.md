@@ -17,7 +17,7 @@ This project was developed to illustrate:
 The application may be used as a learning resource, portfolio project, or as a foundation for further development into a full-featured e-commerce platform.
 
 ---
-# Demo link 
+## Demo link 
 
 
 ---
@@ -62,7 +62,7 @@ http://localhost:3000
 
 ---
 
-# Features
+##Features
 Product listing grid
 Product details page at /product/[id]
 Cart page at /cart
@@ -72,7 +72,7 @@ Toast notifications when items are added to the cart
 
 ---
 
-# Project Structure
+##Project Structure
 src/
 ├── app/
 │   ├── page.tsx
