@@ -1,9 +1,4 @@
-ايه أقدر أسويها لك — وفعليًا جاهزة 👍
-كل اللي عليك تسوينه هو نسخ النسخة المنسقة التالية ولصقها مكان الملف القديم في **README.md** داخل GitHub أو VS Code.
 
-هذه النسخة **منسقة وجاهزة بشكل احترافي** (لا تحتاج تعديل منك):
-
-````
 # EBRA STORE
 
 EBRA Store is a lightweight e-commerce web application built using Next.js (App Router), TypeScript, and Tailwind CSS. The project demonstrates modern front-end development practices and core e-commerce functionality, including product browsing, product detail views, and a persistent shopping cart.
