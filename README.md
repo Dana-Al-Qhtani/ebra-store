@@ -85,23 +85,6 @@ http://localhost:3000
 
 ---
 
-## Project Structure
-
-```
-src/
-├── app/
-│   ├── page.tsx
-│   ├── product/[id]/page.tsx
-│   ├── cart/page.tsx
-│   └── layout.tsx
-├── context/
-│   └── cart-context.tsx
-└── components/
-    └── ProductCard.tsx
-```
-
----
-
 ## Windows PowerShell Issue
 
 If the command `npm run dev` fails with:
